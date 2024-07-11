@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PhoneGhoster or you can call me Owen idrc
+- 👋 Hi, my name is Owen 
 - 👀 I’m interested in python, lua
 - 🌱 I’m currently learning python and lua
 - 📫 How to reach me businessojb@gmail.com
